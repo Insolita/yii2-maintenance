@@ -16,13 +16,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-composer require --prefer-dist insolita/yii2-maintenance "*"
+composer require --prefer-dist insolita/yii2-maintenance "~0.0.1"
 ```
 
 or add
 
 ```
-"insolita/yii2-maintenance": "*"
+"insolita/yii2-maintenance": "~0.0.1"
 ```
 
 to the require section of your `composer.json` file.
