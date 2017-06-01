@@ -6,6 +6,8 @@ Custom mantenance component
  * Support preliminar notice about soon maintenance works
  * Provide observable events when  maintenance process or preliminar modes
 
+![Status](https://travis-ci.org/Insolita/yii2-maintenance.svg?branch=master)
+
 Installation
 ------------
 
