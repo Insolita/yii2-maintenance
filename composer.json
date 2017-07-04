@@ -1,6 +1,6 @@
 {
     "name": "insolita/yii2-maintenance",
-    "description": "...",
+    "description": "Component for maintenance mode behavior, focused on retrieve status from external configuration",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "MIT",
